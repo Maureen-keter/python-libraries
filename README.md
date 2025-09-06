@@ -23,7 +23,7 @@ This project demonstrates basic Python operations with **NumPy**, **Pandas**, **
 
 ```
 project/
-│── main.py          # Main script containing all functionality
+│── answers.py          # Main script containing all functionality
 │── README.md        # Documentation (this file)
 │── requirements.txt # Required dependencies
 ```
